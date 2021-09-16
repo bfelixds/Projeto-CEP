@@ -12,5 +12,5 @@ Projeto criado em Vue que retorna uma imagem para o usuário a partir da busca d
 
 ## Authors
 
-- [@raperina98](https://www.github.com/raperina98)
-- [@bfelixds](https://www.github.com/bfelixds)
+- Back End - [@raperina98](https://www.github.com/raperina98) 
+- Front End - [@bfelixds](https://www.github.com/bfelixds) 
